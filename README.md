@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://lh3.googleusercontent.com/d/1oG6uPOfvCF-wO7EiIlJgzweVUXg0Zjxa" width="300" alt="Lutvi Abdullah - Pawon Hejo" />
+  
+  <img src="https://lh3.googleusercontent.com/d/1zBoV9FH7FCdvuSeb-5mHdoqXauKHdaXQ" width="300" alt="Forgiveness Eating" />
 </p>
 
 i'm a **Business Analyst with interest in Software Engineering** also my favorite programming language is Coffee.
