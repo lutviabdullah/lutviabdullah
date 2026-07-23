@@ -16,7 +16,7 @@ i'm a **Business Analyst with interest in Software Engineering** also my favorit
 ### 🛠️ Language to Build My Idea (Tech Stack) 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40" alt="Matlab" />
-  <img src="https://techicons.dev/icons/stata" width="40" height="40" alt="STATA" />
+  <img src="https://img.shields.io/badge/stata-%231A5986.svg?style=for-the-badge&logo=stata&logoColor=white" height="30" alt="STATA" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="R" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
