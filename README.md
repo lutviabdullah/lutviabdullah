@@ -32,8 +32,21 @@ i'm a **Business Analyst with interest in Software Engineering** also my favorit
 ### 📊 Github Statistics (Prove that i'm a owl person)
 > *This green contribution graph isn't from hard work; it's from panicking and committing 50 times a day with the message 'fix tiny bugs.*
 
+### 📊 GitHub Stats & Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GANTI_DENGAN_USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Statistik Utama (Commits, PR, Issues, dll) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lutviabdullah&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Bahasa Pemrograman yang Sering Digunakan -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutviabdullah&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Grafik Streak / Konsistensi Harian -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lutviabdullah&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
