@@ -35,12 +35,10 @@ i'm a **Business Analyst with interest in Software Engineering** also my favorit
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <!-- Statistik Utama (Commits, PR, Issues, dll) -->
   <img src="https://github-readme-stats.vercel.app/api?username=lutviabdullah&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Bahasa Pemrograman yang Sering Digunakan -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutviabdullah&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
