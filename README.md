@@ -8,7 +8,7 @@
   <img src="https://lh3.googleusercontent.com/d/1qFyj27CAohZjXiDMOpKTc4BTEXOEHbfv" width="250" alt="Gambar Ketiga" />
 </p>
 
-i'm a **Business Analyst with interest in Software Engineering** also my favorite programming language is Coffee.
+i'm a **Business Analyst with interest in Software Engineering** also my favorite programming language is Python, C, and C++ also C# with Java, HTML, CSS and JSON.
 
 - 🔭 **Busy:** Trying to write code that doesn't self-destruct the moment it touches production..
 - 🌱 **Learn and Unlearn:** My desk cables look like spaghetti code, which explains why my brain feels like it's running on an infinite loop with a memory leak.
