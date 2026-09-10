@@ -1,4 +1,4 @@
-### Hi, welcome to my page! in indonesia ( Profile belajar gweh buat ngoding ) 👋
+### Hi, welcome to my page! in Bahasa indonesia ( Profile belajar gweh buat ngoding ) 👋
 
 <p align="center">
   <img src="https://lh3.googleusercontent.com/d/1oG6uPOfvCF-wO7EiIlJgzweVUXg0Zjxa" width="250" alt="Lutvi Abdullah - Pawon Hejo" />
