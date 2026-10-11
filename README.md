@@ -12,14 +12,14 @@
 ---
 
 ## About Me
-
-🎓 **Computer Science - Information Systems** student at Cakrawala University & Singapore Management University (SMU) <br>
+🎓 **Computer Science - Information Systems** student at Cakrawala University & SMU, Singapore <br>
 💼 **Business Analyst and ESG Specialist** at Nobusoft & Fortune <br>
-🥙 **Researcher in Public Health Nutrition & Incoming Public Health Dietitian <br>
-🧠 Passionate about **Data Analytics, AI/ML, Predictive Modeling, SQL Tuning, And a little bit Software-IoT** <br>
-🔍 Exploring **Data Analytics & IoT Workflows**, to enchance solution for climate change and planetary health <br>
+🧠 Passionate about **Data Analytics, AI/ML, Predictive Modelling, and SQL Tuning** <br>
+🥙 **Researcher & Nutritionist** in Public Health Nutrition & **Incoming** Clinical Dietitian <br>
+🔍 Exploring **Data Analytics & IoT workflows**, to enchance for climate change & planetary health <br> 
 🌱 Led the **"Pilah Sampah"** framework implementation across 250+ retail stores <br>
-🏆 Developed the **HIVI cookie** project and **NUTRIO** proposals for public health nutrition
+🏆 Developed the **HIVI cookies, Forgiveness Eating, #Pawonhejo** project and **NUTRIO** research for public health nutrition
+
 ---
 
 ## Tech Stack
