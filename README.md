@@ -1,55 +1,65 @@
-### Hi, welcome to my page! in Bahasa indonesia ( Profile belajar gweh buat ngoding ) 👋
+# Hi, I'm Lutvi Abdullah!
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1oG6uPOfvCF-wO7EiIlJgzweVUXg0Zjxa" width="250" alt="Lutvi Abdullah - Pawon Hejo" />
+<div align="center">
+  <h3>Circular Strategist & Information Systems Student</h3>
   
-  <img src="https://lh3.googleusercontent.com/d/1zBoV9FH7FCdvuSeb-5mHdoqXauKHdaXQ" width="250" alt="Forgiveness Eating" />
-  
-  <img src="https://lh3.googleusercontent.com/d/1qFyj27CAohZjXiDMOpKTc4BTEXOEHbfv" width="250" alt="Gambar Ketiga" />
-</p>
-
-i'm a **Business Analyst with interest in Software Engineering** also my favorite programming language is Python, C, and C++ also C# with Java, HTML, CSS and JSON.
-
-- 🔭 **Busy:** Trying to write code that doesn't self-destruct the moment it touches production..
-- 🌱 **Learn and Unlearn:** My desk cables look like spaghetti code, which explains why my brain feels like it's running on an infinite loop with a memory leak.
-- 💬 **FAQ:** The classic developer defense: "It worked fine on my machine!" The BA response: "Well, your machine isn't paying the client's invoice.".
-- ⚡ **Fun fact:** Debugging is like being the detective in a crime movie where you are also the murderer.
+  <p>🌐 Visit My Website</p>
+  <a href="sites.google.com/view/lutviabdullah">
+    <img src="https://img.shields.io/badge/🚀_LUTVIABDULLAH.COM-4285F4?style=flat-square&logoColor=white" alt="Website" />
+  </a>
+</div>
 
 ---
 
-### 🛠️ Language to Build My Idea (Tech Stack) 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40" alt="Matlab" />
-  <img src="https://img.shields.io/badge/stata-%231A5986.svg?style=for-the-badge&logo=stata&logoColor=white" height="30" alt="STATA" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="R" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-</p>
+## About Me
+
+🎓 **Computer Science - Information Systems** student at Cakrawala University & Singapore Management University (SMU)
+💼 **Business Analyst and ESG Specialist** at Nobusoft & Fortune
+🧠 Passionate about **Data Analytics, AI/ML, Predictive Modeling, SQL Tuning, And a little bit Software-IoT**
+🔍 Exploring **Data Analytics & IoT Workflows**, to enchance solution for climate change and planetary health
+🌱 Led the **"Pilah Sampah"** framework implementation across 250+ retail stores
+🏆 Developed the **HIVI cookie** project and **NUTRIO** proposals for public health nutrition
 
 ---
 
-### 📊 Github Statistics (Prove that i'm a owl person)
-> *This green contribution graph isn't from hard work; it's from panicking and committing 50 times a day with the message 'fix tiny bugs.*
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lutviabdullah&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
+### 💻 Programming Languages 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lutviabdullah&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<p align="center">
-  <!-- Grafik Streak / Konsistensi Harian -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lutviabdullah&theme=radical" alt="GitHub Streak" />
-</p>
+### 🧑🏻‍💻 AI/ML & Data Science
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### 🖥 Embedded Systems & IoT
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white)
+![ESP32](https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
-📫 **lets gaurr to collab bestie:**
-- LinkedIn: [Lutvi Abdullah](www.linkedin.com/in/lutviabdullah)
-- Email: lutvi.abd88@gmail.com
+
+## Let's Connect!
+
+<div align="center">
+  <a href="https://www.instagram.com/lutviabd/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/lutviabdullah">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
