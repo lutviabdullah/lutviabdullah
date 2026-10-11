@@ -3,9 +3,9 @@
 <div align="center">
   <h3>Circular Strategist & Information Systems Student</h3>
   
-  <p>🌐 Visit My Website</p>
+  <p>🫑🥙Visit My Website🫑🥙</p>
   <a href="sites.google.com/view/lutviabdullah">
-    <img src="https://img.shields.io/badge/🚀_LUTVIABDULLAH.COM-4285F4?style=flat-square&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/🧠_Lutvi Portfolio-4285F4?style=flat-square&logoColor=white" alt="Website" />
   </a>
 </div>
 
