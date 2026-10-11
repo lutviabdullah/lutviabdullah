@@ -15,6 +15,7 @@
 
 🎓 **Computer Science - Information Systems** student at Cakrawala University & Singapore Management University (SMU) <br>
 💼 **Business Analyst and ESG Specialist** at Nobusoft & Fortune <br>
+🥙 **Researcher in Public Health Nutrition & Incoming Public Health Dietitian <br>
 🧠 Passionate about **Data Analytics, AI/ML, Predictive Modeling, SQL Tuning, And a little bit Software-IoT** <br>
 🔍 Exploring **Data Analytics & IoT Workflows**, to enchance solution for climate change and planetary health <br>
 🌱 Led the **"Pilah Sampah"** framework implementation across 250+ retail stores <br>
