@@ -1,9 +1,9 @@
 # Hi, I'm Lutvi Abdullah!
 
 <div align="center">
-  <h3>Digital Health Analyst & Computer Science Student </h3>
+  <h3>Digital Health (Nutrition) Analyst & Computer Science Student </h3>
   
-  <p>🫑🥙Visit My Website🫑🥙</p>
+  <p>🥙Visit My Website🥙</p>
   <a href="https://sites.google.com/view/lutviabdullah">
     <img src="https://img.shields.io/badge/🧠_My Portfolio-4285F4?style=flat-square&logoColor=white" alt="https://sites.google.com/view/lutviabdullah" />
   </a>
@@ -13,13 +13,12 @@
 
 ## About Me
 
-🎓 **Computer Science - Information Systems** student at Cakrawala University & Singapore Management University (SMU)
-💼 **Business Analyst and ESG Specialist** at Nobusoft & Fortune
-🧠 Passionate about **Data Analytics, AI/ML, Predictive Modeling, SQL Tuning, And a little bit Software-IoT**
-🔍 Exploring **Data Analytics & IoT Workflows**, to enchance solution for climate change and planetary health
-🌱 Led the **"Pilah Sampah"** framework implementation across 250+ retail stores
+🎓 **Computer Science - Information Systems** student at Cakrawala University & Singapore Management University (SMU) <br>
+💼 **Business Analyst and ESG Specialist** at Nobusoft & Fortune <br>
+🧠 Passionate about **Data Analytics, AI/ML, Predictive Modeling, SQL Tuning, And a little bit Software-IoT** <br>
+🔍 Exploring **Data Analytics & IoT Workflows**, to enchance solution for climate change and planetary health <br>
+🌱 Led the **"Pilah Sampah"** framework implementation across 250+ retail stores <br>
 🏆 Developed the **HIVI cookie** project and **NUTRIO** proposals for public health nutrition
-
 ---
 
 ## Tech Stack
