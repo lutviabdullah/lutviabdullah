@@ -4,8 +4,8 @@
   <h3>Digital Health Analyst & Computer Science Student </h3>
   
   <p>🫑🥙Visit My Website🫑🥙</p>
-  <a href="sites.google.com/view/lutviabdullah">
-    <img src="https://img.shields.io/badge/🧠_Lutvi Portfolio-4285F4?style=flat-square&logoColor=white" alt="sites.google.com/view/lutviabdullah" />
+  <a href="https://sites.google.com/view/lutviabdullah">
+    <img src="https://img.shields.io/badge/🧠_My Portfolio-4285F4?style=flat-square&logoColor=white" alt="https://sites.google.com/view/lutviabdullah" />
   </a>
 </div>
 
